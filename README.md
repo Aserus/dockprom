@@ -1,9 +1,11 @@
 # dockprom
 
-
+### Команда для запуска
+```
 git clone https://github.com/Aserus/dockprom
 cd dockprom
 docker compose up -d
+```
 
 Логи
 docker compose logs
